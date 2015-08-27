@@ -1,0 +1,6 @@
+{
+  com.badlogic.gdx.graphics.g2d.BitmapFont: {
+    default: { file: fonts/atari.fnt },
+    score: { file: fonts/font.fnt }
+  }
+}
